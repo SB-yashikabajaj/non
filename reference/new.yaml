@@ -121,7 +121,7 @@ paths:
           schema:
             type: array
             items:
-              $ref: 'https://x-20656.stoplight-dev.com/api/v1/projects/noniata/model-dl/nodes/model123.yaml'
+              $ref: 'https://x-20656.stoplight-dev.com/api/v1/projects/noniata/model-dl/nodes/model123.yaml?deref=bundle&mid=88'
         '400':
           description: Missing Required Information
           schema:
